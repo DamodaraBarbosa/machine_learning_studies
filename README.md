@@ -1,7 +1,7 @@
-<h1 align="center"> LINEAR REGRESSION STUDIES</h1>
+<h1 align="center"> MACHINE LEARNING STUDIES</h1>
 
 ## :memo: Descrição
-Esse repositório agrupa diversos notebooks com meus estudos de predição com regressão linear. Além disso, em muitos casos há, além da aprendizagem de máquina, a análise exploratória e estatística dos dados.
+Esse repositório agrupa diversos notebooks com meus estudos de predição de dados com métodos de classificação e regressão linear. Além disso, em muitos casos há, além da aprendizagem de máquina, a análise exploratória e estatística dos dados.
 
 
 ## :books: Conteúdos
